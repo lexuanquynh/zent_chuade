@@ -1,0 +1,5 @@
+5 Bui Minh 4 0
+1 Le Anh 6 1
+2 Nguyen Nam Anh 7 2
+4 Tran Nhung 8 2
+3 Le Lan 9 3

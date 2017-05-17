@@ -1,0 +1,5 @@
+3 bui thi Lan 4 0
+5 tran minh 7 2
+1 le quynh 7 2
+2 nguyen lan 8 3
+8 bui Tuan 9 3
